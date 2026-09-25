@@ -7,11 +7,20 @@ Cet exercice me permet de découvrir progressivement les branches, les commits e
 J'ai hâte d'approfondir mes connaissances en Git et GitHub afin de pouvoir les utiliser efficacement dans mes futurs projets.
 ## 3.6 Git-GitHub
 ![Git-GitHub](https://previews.123rf.com/images/mtoome/mtoome1401/mtoome140100108/25414785-smiling-athletic-woman-running-on-a-treadmill.jpg)
-## 3.6 Mes motivations
+## 3.6 Mes-motivations
 Je souhaite apprendre Python afin de développer mes compétences en programmation et d’être plus à l’aise avec le codage.
 Je souhaite également apprendre R pour pouvoir mieux analyser et exploiter des données.
 Apprendre Git et GitHub me permettra de mieux organiser mes projets et de suivre les différentes versions de mon code.
 Ces outils seront utiles dans mon parcours en ingénierie des dispositifs pour la santé et dans mes futurs projets.
 Je suis motivée à pratiquer régulièrement afin de gagner progressivement en autonomie et en confiance dans le développement informatique.
+## 3-7 Image-locale
+![Mon image](images/Lys.jpg)
+## 3.8 ## Résumé de ce que j'ai appris
 
+J'ai appris à créer un dépôt GitHub et à le cloner sur mon ordinateur.
+J'ai appris à créer et utiliser une branche pour travailler sur un projet.
+J'ai appris à modifier un fichier README et à ajouter des images avec des chemins URL.
+J'ai découvert les principales commandes Git comme `git status`, `git add`, `git commit`, `git push` et `git clone`.
+J'ai compris l'intérêt des commits et de GitHub pour suivre, sauvegarder et partager les modifications d'un projet.
+J'ai consacré environ 3 heures à la réalisation de cet exercice.
 
