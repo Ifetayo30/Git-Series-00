@@ -6,5 +6,5 @@ Je débute dans l'utilisation de Git et de GitHub et je souhaite mieux comprendr
 Cet exercice me permet de découvrir progressivement les branches, les commits et le partage des modifications avec GitHub.
 J'ai hâte d'approfondir mes connaissances en Git et GitHub afin de pouvoir les utiliser efficacement dans mes futurs projets.
 ## Git-GitHub
-![Git-GitHub] (https://previews.123rf.com/images/mtoome/mtoome1401/mtoome140100108/25414785-smiling-athletic-woman-running-on-a-treadmill.jpg)
+![Git-GitHub](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AVisual_Studio_Code_1.35_icon.svg&ved=0CBYQjRxqFwoTCNDm7cvkipcDFQAAAAAdAAAAABA5&opi=89978449)
 
